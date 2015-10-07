@@ -1,2 +1,2 @@
 #Cheking Out Reviewable
-This is intended to test out reviwable product!
+Test out reviwable product!
